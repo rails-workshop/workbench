@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="sketch" measuredW="941" measuredH="455" mockupW="901" mockupH="428">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="30" y="17" w="900" h="428" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rails%20Workshop%20Workbench%0Ahttp%3A//workbench.wiseman.ru</text>
+        <verticalScrollbar>false</verticalScrollbar>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="223" y="101" w="-1" h="-1" measuredW="513" measuredH="56" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Rails%20Workshop</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="414" y="217" w="131" h="-1" measuredW="54" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="797" y="402" w="134" h="21" measuredW="134" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28c%29%20%u0420%u0443%u0441%u0441%u043A%u0438%u0435%20%u0420%u0435%u043B%u044C%u0441%u044B</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="282" y="157" w="395" h="230" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20Login%20or%20Register</text>
+        <backgroundAlpha>1</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="414" y="281" w="131" h="-1" measuredW="74" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

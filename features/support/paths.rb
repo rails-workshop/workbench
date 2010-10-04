@@ -10,6 +10,9 @@ module NavigationHelpers
 
     when /the home\s?page/
       '/'
+    when /the new landing_page page/
+      new_landing_page_path
+
 
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
