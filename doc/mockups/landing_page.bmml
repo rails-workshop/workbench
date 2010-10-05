@@ -15,6 +15,7 @@
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="414" y="217" w="131" h="-1" measuredW="54" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Login</text>
+        <href>login_page%26bm%3Blogin_page.bmml%26bm%3Blogin_page.bmml%26bm%3Blogin_page.bmml</href>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="797" y="402" w="134" h="21" measuredW="134" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
